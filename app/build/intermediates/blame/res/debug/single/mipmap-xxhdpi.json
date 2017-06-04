@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/andrey/AndroidStudioProjects/Hamsters/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher1.png",
+        "source": "/home/andrey/AndroidStudioProjects/Hamsters/app/src/main/res/mipmap-xxhdpi/ic_launcher1.png"
+    },
+    {
+        "merged": "/home/andrey/AndroidStudioProjects/Hamsters/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/andrey/AndroidStudioProjects/Hamsters/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

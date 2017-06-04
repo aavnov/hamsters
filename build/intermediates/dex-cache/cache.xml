@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/andrey/AndroidStudioProjects/Hamsters/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/andrey/AndroidStudioProjects/Hamsters/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_a646baad71fd5c3cb6d55b491f6f7fb7d3aa1b39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/andrey/AndroidStudioProjects/Hamsters/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3e9486aa4f7bcf39c5c99a93edeb2011585d615d">
+        <dex dex="/home/andrey/AndroidStudioProjects/Hamsters/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4cdf86f89025b0f2f6901910deb7730966eb38ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/andrey/AndroidSDK/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/andrey/AndroidStudioProjects/Hamsters/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_e9a295b775016928d4e2fdd0483ac6169c1a96be/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/andrey/AndroidStudioProjects/Hamsters/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/andrey/AndroidStudioProjects/Hamsters/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_27911a8d814697880d16635151d466134182c19f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/andrey/AndroidStudioProjects/Hamsters/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/andrey/AndroidStudioProjects/Hamsters/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_a646baad71fd5c3cb6d55b491f6f7fb7d3aa1b39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/andrey/AndroidSDK/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/andrey/AndroidStudioProjects/Hamsters/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_e9a295b775016928d4e2fdd0483ac6169c1a96be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/andrey/AndroidStudioProjects/Hamsters/app/libs/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/andrey/AndroidStudioProjects/Hamsters/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_3abfdf2c36d42ef0b3d0f10369e0af3b2cd33bb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/andrey/AndroidStudioProjects/Hamsters/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/andrey/AndroidStudioProjects/Hamsters/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_fdfef384b9cf83dbf79d809d735290eeeb1fbaa9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/andrey/AndroidStudioProjects/Hamsters/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/andrey/AndroidStudioProjects/Hamsters/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_27911a8d814697880d16635151d466134182c19f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/andrey/AndroidStudioProjects/Hamsters/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/home/andrey/AndroidStudioProjects/Hamsters/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_b0418374307387a0de1ed3fc793657e78f339df7/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/andrey/AndroidStudioProjects/Hamsters/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/home/andrey/AndroidStudioProjects/Hamsters/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_b0418374307387a0de1ed3fc793657e78f339df7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/andrey/AndroidStudioProjects/Hamsters/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b238847a7e0de9bd848f5886f01202729ae0ebf2">
+        <dex dex="/home/andrey/AndroidStudioProjects/Hamsters/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a1792cfc81d2262313388d8221e9bcd9cb5f1b8c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/andrey/AndroidStudioProjects/Hamsters/app/libs/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/andrey/AndroidStudioProjects/Hamsters/app/build/intermediates/transforms/dex/debug/folders/1000/2/picasso-2.5.2_3abfdf2c36d42ef0b3d0f10369e0af3b2cd33bb1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/andrey/AndroidStudioProjects/Hamsters/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/andrey/AndroidStudioProjects/Hamsters/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_fdfef384b9cf83dbf79d809d735290eeeb1fbaa9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/andrey/AndroidStudioProjects/Hamsters/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/andrey/AndroidStudioProjects/Hamsters/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_f7c11589cec90f1404c88f3b112b0cee85fee5e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/andrey/AndroidStudioProjects/Hamsters/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/andrey/AndroidStudioProjects/Hamsters/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_f7c11589cec90f1404c88f3b112b0cee85fee5e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/andrey/AndroidStudioProjects/Hamsters/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/home/andrey/AndroidStudioProjects/Hamsters/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-21.0.3_506fa2dd973c332da5b672e65504bc86cffeadcf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/andrey/AndroidStudioProjects/Hamsters/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/andrey/AndroidStudioProjects/Hamsters/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_4f4a461e944ce5e82d8c43255d3cf4a2f1eed647/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/andrey/AndroidStudioProjects/Hamsters/app/libs/android-async-http-1.4.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3bae85a076241828810bf8fbcc12e5891d5fc34c">
+        <dex dex="/home/andrey/AndroidStudioProjects/Hamsters/app/build/intermediates/transforms/dex/debug/folders/1000/2/android-async-http-1.4.4_7067a74297a71977bd0cb0de7487e2e0a08b39c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/andrey/AndroidStudioProjects/Hamsters/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/home/andrey/AndroidStudioProjects/Hamsters/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-21.0.3_506fa2dd973c332da5b672e65504bc86cffeadcf/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/andrey/AndroidStudioProjects/Hamsters/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/andrey/AndroidStudioProjects/Hamsters/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_98e4e3cf0ecf923c748b478a4054eec98918a7bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/andrey/AndroidStudioProjects/Hamsters/app/libs/android-async-http-1.4.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3bae85a076241828810bf8fbcc12e5891d5fc34c">
+        <dex dex="/home/andrey/AndroidStudioProjects/Hamsters/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.4_7067a74297a71977bd0cb0de7487e2e0a08b39c9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/andrey/AndroidStudioProjects/Hamsters/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/andrey/AndroidStudioProjects/Hamsters/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_98e4e3cf0ecf923c748b478a4054eec98918a7bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/andrey/AndroidStudioProjects/Hamsters/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/andrey/AndroidStudioProjects/Hamsters/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_4f4a461e944ce5e82d8c43255d3cf4a2f1eed647.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+#Sat May 27 21:54:09 MSK 2017
+base.0=/home/andrey/AndroidStudioProjects/Hamsters/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a1792cfc81d2262313388d8221e9bcd9cb5f1b8c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/andrey/AndroidStudioProjects/Hamsters/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4cdf86f89025b0f2f6901910deb7730966eb38ac/classes.dex
+base.1=/home/andrey/AndroidStudioProjects/Hamsters/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4cdf86f89025b0f2f6901910deb7730966eb38ac
+file.0=/home/andrey/AndroidStudioProjects/Hamsters/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a1792cfc81d2262313388d8221e9bcd9cb5f1b8c/classes.dex
